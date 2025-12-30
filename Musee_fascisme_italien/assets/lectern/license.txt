@@ -1,0 +1,11 @@
+Model Information:
+* title:	lectern
+* source:	https://sketchfab.com/3d-models/lectern-d0bdf2e9417c4b7aa1958d149011f86b
+* author:	Sploink0 (https://sketchfab.com/Sploink0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lectern" (https://sketchfab.com/3d-models/lectern-d0bdf2e9417c4b7aa1958d149011f86b) by Sploink0 (https://sketchfab.com/Sploink0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
