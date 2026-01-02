@@ -15,5 +15,30 @@ en locale: Télécharger le répertoire et l'exécuter sur un éditeur de code t
 Ce jeu a été développé dans le cadre du cours "Réalité virtuelle et augmentée" (SLI, Lettres, UNIL), encadré par Isaac Pante. SA2024.
 
 ## License
-- 
+_Le jeu a été réalisé en html à l'aide de a-frame (https://aframe.io/) et javaScript, avec l'aide d'un LLM spécialement conçu pour corriger les erreurs et les bugs (Chatgpt version 4o)._
+- Discours Mussolini (Audio): https://www.youtube.com/watch?v=UmnxcjRk37Q
+- Bella Ciao (Audio): https://www.youtube.com/watch?v=4CI3lhyNKfo
+- Marche (Audio):
+- Lamp Buzz (Audio): 
+- Distant war (Audio):
+- greek column (objet):
+- lectern (objet):
+- street lamp (objet):
+- CGIL (image):
+- lois Raciales (image):
+- liberazione 25 aprile (image):
+- MAGA (image):
+- Marcia su Roma 1922 (image):
+- Meloni (image):
+- Mussolini Palazzo Braschi (image):
+- Mussolini Discours 3 janvier (image):
+- Mussolini Shop Online (image): 
+- Overton Window (image):
+- Previeti Peinture (image):
+- Primo Levi (image):
+- Protest anciens combattants(image):
+- Protest Musk (image):
+- Strage Addis Abeba(image):
 
+## Crédits
+Concept et développement: Dylan Perlasca
