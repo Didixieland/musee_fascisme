@@ -16,29 +16,30 @@ Ce jeu a été développé dans le cadre du cours "Réalité virtuelle et augmen
 
 ## License
 _Le jeu a été réalisé en html à l'aide de a-frame (https://aframe.io/) et javaScript, avec l'aide d'un LLM spécialement conçu pour corriger les erreurs et les bugs (Chatgpt version 4o)._
-- Discours Mussolini (Audio): https://www.youtube.com/watch?v=UmnxcjRk37Q
+- Discours Mussolini "Dichiarazione di guerra" (Audio): Soundcloud (user: Vito Fabrizio Brugnola) (https://soundcloud.com/vito-fabrizio-brugnola/dichiarazione-di-guerra-mussolini-10-giugno-1940). 
 - Bella Ciao (Audio): https://www.youtube.com/watch?v=4CI3lhyNKfo
-- Marche (Audio):
+- Marche (Audio): 
 - Lamp Buzz (Audio): 
 - Distant war (Audio):
-- greek column (objet):
+- Troika Text (Three.js library): (https://protectwise.github.io/troika/troika-three-text/)
+- greek column (objet): Greek column - Théo Lerbeil, 3d model (https://sketchfab.com/3d-models/greek-column-45283d9f94e242ff89599e12b0500401#download)
 - lectern (objet):
 - street lamp (objet):
 - CGIL (image):
-- lois Raciales (image):
+- lois Raciales (image): File:Difesa della Razza.jpg (https://commons.wikimedia.org/wiki/File:Difesa_della_Razza.jpg)
 - liberazione 25 aprile (image):
 - MAGA (image):
 - Marcia su Roma 1922 (image):
-- Meloni (image):
+- Giorgia Meloni (image): Author user:Jose Antonio (https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_2014.JPG)
 - Mussolini Palazzo Braschi (image):
 - Mussolini Discours 3 janvier (image):
 - Mussolini Shop Online (image): 
 - Overton Window (image):
-- Previeti Peinture (image):
+- Previati Peinture (image): aetano Previati, Gli orrori della guerra, L’esodo, 1917. Olio su tela, 585x790mm (https://www.arte.it/foto/sironi-e-la-grande-guerra-115/5). 
 - Primo Levi (image):
 - Protest anciens combattants(image):
 - Protest Musk (image):
 - Strage Addis Abeba(image):
 
 ## Crédits
-Concept et développement: Dylan Perlasca
+Concept et développement: Dylan Perlasca. 
