@@ -18,13 +18,13 @@ Ce jeu a été développé dans le cadre du cours "Réalité virtuelle et augmen
 _Le jeu a été réalisé en html à l'aide de a-frame (https://aframe.io/) et javaScript, avec l'aide d'un LLM spécialement conçu pour corriger les erreurs et les bugs (Chatgpt version 4o)._
 - Discours Mussolini "Dichiarazione di guerra" (Audio): Soundcloud (user: Vito Fabrizio Brugnola) (https://soundcloud.com/vito-fabrizio-brugnola/dichiarazione-di-guerra-mussolini-10-giugno-1940). 
 - Bella Ciao (Audio): https://www.youtube.com/watch?v=4CI3lhyNKfo
-- Marche (Audio): 
-- Lamp Buzz (Audio): 
-- Distant war (Audio):
+- Marche (Audio): freesound_community, "marching-loop", pixabay.com
+- Lamp Buzz (Audio): freesound_community, "Lamp Buzz", pixabay.com
+- Distant war (Audio): Armed_Unit, "Distant War", pixabay.com
 - Troika Text (Three.js library): (https://protectwise.github.io/troika/troika-three-text/)
 - greek column (objet): Greek column - Théo Lerbeil, 3d model (https://sketchfab.com/3d-models/greek-column-45283d9f94e242ff89599e12b0500401#download)
 - lectern (objet):
-- street lamp (objet):
+- street lamp (objet): street lamp
 - CGIL (image):
 - lois Raciales (image): File:Difesa della Razza.jpg (https://commons.wikimedia.org/wiki/File:Difesa_della_Razza.jpg)
 - liberazione 25 aprile (image):
@@ -33,13 +33,13 @@ _Le jeu a été réalisé en html à l'aide de a-frame (https://aframe.io/) et j
 - Giorgia Meloni (image): Author user:Jose Antonio (https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_2014.JPG)
 - Mussolini Palazzo Braschi (image):
 - Mussolini Discours 3 janvier (image):
-- Mussolini Shop Online (image): 
-- Overton Window (image):
+- Mussolini Shop Online (image): screenshot du site (Je ne mets pas le lien, je ne veux pas faire de publicité)
+- Overton Window (image): Hydrargyrum, (https://commons.wikimedia.org/wiki/File:Overton_Window_diagram.svg)
 - Previati Peinture (image): aetano Previati, Gli orrori della guerra, L’esodo, 1917. Olio su tela, 585x790mm (https://www.arte.it/foto/sironi-e-la-grande-guerra-115/5). 
 - Primo Levi (image):
 - Protest anciens combattants(image):
 - Protest Musk (image):
-- Strage Addis Abeba(image):
+- Strage Addis Abeba(image): Victims of the Addis Ababa massacre 2 (https://picryl.com/media/vittime-della-strage-di-addis-abeba-2-3b4e87)
 
 ## Crédits
 Concept et développement: Dylan Perlasca. 
