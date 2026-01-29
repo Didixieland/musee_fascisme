@@ -6,6 +6,8 @@ La composition de chaque salle et le choix des sons et des images ont pour but d
 
 Bonne visite !
 
+_PS: Ce projet contient des images historiques qui peuvent être perturbantes ou sensibles pour certains spectateurs. La prudence est recommandée._
+
 ## Commandes du jeu
 - commandes "WASD" pour se déplacer
 - cliquer avec la souris ou le touchpad
